@@ -1,4 +1,4 @@
 baseURL = "https://simpleriscv.com"
 languageCode = "en-us"
 title = "Simple RISC-V"
-theme = "hugo-theme-chunky-poster"
+theme = "chunky"
