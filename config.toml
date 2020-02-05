@@ -2,3 +2,16 @@ baseURL = "https://simpleriscv.com"
 languageCode = "en-us"
 title = "Simple RISC-V"
 theme = "hugo-theme-chunky-poster"
+copyright = "Copyright © 2020, simpleriscv.com; all rights reserved."
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 0
+
