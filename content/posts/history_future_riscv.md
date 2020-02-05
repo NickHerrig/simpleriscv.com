@@ -1,7 +1,6 @@
 ---
 title: "The History and Future of RISC-V"
 date: 2020-02-05T12:12:58-06:00
-draft: true
 ---
 In the late 80s, the open-source software movement launched with the release of GNU, and since then has enabled a variety of innovative and industry changing software projects. Collaboration between open-source developers across the world enabled speed and new ideas that helped shape the technologies and programming languages we use Today. Although strides have been made with open software, open hardware on the other hand is less common. But this will change in the near future...
 
