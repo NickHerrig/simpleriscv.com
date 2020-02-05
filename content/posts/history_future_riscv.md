@@ -1,5 +1,8 @@
-# The History and Future of RISC-V
-
+---
+title: "The History and Future of RISC-V"
+date: 2020-02-05T12:12:58-06:00
+draft: true
+---
 In the late 80s, the open-source software movement launched with the release of GNU, and since then has enabled a variety of innovative and industry changing software projects. Collaboration between open-source developers across the world enabled speed and new ideas that helped shape the technologies and programming languages we use Today. Although strides have been made with open software, open hardware on the other hand is less common. But this will change in the near future...
 
 ## Historically Speaking...
@@ -15,4 +18,4 @@ RISC-V will enable the next wave of technology innovation across a multitude of 
 Whether you're an Entrepreneur wanting to capitalize on the disruption RISC-V will bring. Or whether you're Software Engineer looking to learn the ISA to be a more competitive candidate in interviews. The timing could not be better to start learning about RISC-V. That's where we come into play. 
 
 ## Who we are...
-Simple RISC-V was founded with the goal to enable people of all skill levels to learn the RISC-V ISA. We accomplish this through a variety of blogs, tutorials, classes, and other content. Our mission is to grow a community of builders, hackers, and craftsmen. With RISC-V at the core this community will build and influence the future of devices and software. 
+Simple RISC-V was founded with the goal to enable people of all skill levels to learn the RISC-V ISA. We accomplish this through a variety of blogs, tutorials, classes, and other content. Our mission is to grow a community of builders, hackers, and craftsmen. With RISC-V at the core this community will build and influence the future of devices and software.
