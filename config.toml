@@ -14,4 +14,8 @@ copyright = "Copyright © 2020, simpleriscv.com; all rights reserved."
     name = "About"
     url = "/about/"
     weight = 0
-
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 0
