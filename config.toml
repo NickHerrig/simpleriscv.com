@@ -29,3 +29,5 @@ category = "categories"
 tag = "tags"
 series = "series"
 author = "authors"
+
+googleAnalytics = "UA-158044636-1"
